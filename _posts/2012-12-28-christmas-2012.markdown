@@ -1,0 +1,25 @@
+---
+author: Travis
+layout: post
+permalink: /christmas-2012/
+title: Christmas 2012
+tags:
+  - Christmas
+  - 2012
+  - presents
+
+---
+
+Christmas couldn't come fast enough...
+
+<figure class="half">
+	<img src="http://silasq.com/uploads/2013/05/2012-12-25-09.19.17-1024x764.jpg" alt="">
+	<img src="http://silasq.com/uploads/2013/05/2012-12-25-09.22.20-1024x764.jpg" alt="">
+	<figcaption></figcaption>
+</figure>
+
+<figure class="half">
+	<img src="http://silasq.com/uploads/2013/05/2012-12-25-09.29.33-1024x764.jpg" alt="">
+	<img src="http://silasq.com/uploads/2013/05/2012-12-25-09.27.44-1024x764.jpg" alt="">
+	<figcaption></figcaption>
+</figure>

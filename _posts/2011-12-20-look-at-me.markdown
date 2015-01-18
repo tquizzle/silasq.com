@@ -1,0 +1,12 @@
+---
+author: Travis
+layout: post
+permalink: /look-at-me/
+title: Look at Me!
+tags:
+- Pictures
+---
+
+Take a look at this beautiful boy! He's in pictures.
+
+For the entire album check above on ["Newborn Pictures"](http://silasq.com/newborn-pictures/).
