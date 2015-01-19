@@ -7,7 +7,8 @@
 			<ul class="dl-submenu">
 				<li>
 <!-- 					<img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.subject.name }} photo" class="author-photo">
- -->					<img src="{{ site.url }}/uploads/family-2012/_MG_2353+1.jpg" alt="{{ site.subject.name }} photo" class="author-photo">
+ -->					
+ 					<img src="{{ site.url }}/images/silas-avatar.jpg" alt="{{ site.subject.name }} photo" class="author-photo">
 					<h4>{{ site.subject.name }}</h4>
 					<p>{{ site.subject.bio }}</p>
 				</li>
@@ -17,7 +18,7 @@
 				</li>{% endif %}
 
 				<hr />
-				<h4>{{ site.dad.name }}</h4>
+				<h4>Dad: {{ site.dad.name }}</h4>
  				{% if site.dad.email %}<li>
 					<a href="mailto:{{ site.dad.email }}"><i class="fa fa-fw fa-envelope"></i> Email</a>
 				</li>{% endif %}
@@ -50,7 +51,7 @@
 				</li>{% endif %}
 
 				<hr />
-				<h4>{{ site.mom.name }}</h4>
+				<h4>Mom: {{ site.mom.name }}</h4>
 				{% if site.mom.email %}<li>
 					<a href="mailto:{{ site.mom.email }}"><i class="fa fa-fw fa-envelope"></i> Email</a>
 				</li>{% endif %}
