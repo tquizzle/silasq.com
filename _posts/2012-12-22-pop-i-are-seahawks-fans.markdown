@@ -2,7 +2,7 @@
 author: Travis
 layout: post
 permalink: /pop-i-are-seahawks-fans/
-title: Pop & I are Seahawks Fans
+title: Pop and I are Seahawks Fans
 tags:
   - Seahawks
   - pop
