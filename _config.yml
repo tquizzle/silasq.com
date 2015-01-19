@@ -1,6 +1,6 @@
 title:            SilasQ.com
-description:      "My name is Silas Quinnelly. I'm but a wee little lad, and my parents wanted me to have a Tumblog so that they could post all the cute things I did while growing up and share with friends & family. Also to show & embarrass me later in life."
-disqus_shortname: silasqcom
+description:      "The home of Silas Quinnelly"
+disqus_shortname: silasq
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -9,12 +9,12 @@ url: //silasq.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Silas Quinnelly
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "My name is Silas Quinnelly. I'm but a wee little lad, and my parents wanted me to have a Tumblog so that they could post all the cute things I did while growing up and share with friends & family. Also to show & embarrass me later in life."
+  email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        SilasQuinnelly
   facebook:       
   github:         
   stackexchange:  
