@@ -20,7 +20,7 @@ Yep, I know I'm cute!
 </figure>
 <figure class="half">
 	<img src="http://silasq.com/uploads/2012/02/Silas-Smiling-in-Tie-600x811.jpg" alt="">
-	<img src="http://silasq.com/uploads/2012/02/Silas-Head-on-Arm-600x703.jpg" alt="">
+	<img src="http://silasq.com/uploads/2012/02/Silas-Head-on-Arms-600x703.jpg" alt="">
 	<figcaption></figcaption>
 </figure>
 <figure class="half">
