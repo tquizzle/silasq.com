@@ -1,6 +1,6 @@
 title:            SilasQ.com
 description:      "The home of Silas Quinnelly"
-disqus_shortname: silasq
+disqus_shortname: #silasq
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -39,9 +39,9 @@ dad:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        TQuizzle
   facebook:       tquinnelly
-  github:         tquizzle
+  github:         #tquizzle
   stackexchange:  
-  linkedin:       tquinnelly
+  linkedin:       #tquinnelly
   instagram:      tquinnelly
   flickr:         
   tumblr:         
