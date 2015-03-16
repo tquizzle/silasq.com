@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /playing-in-the-leaves-on-thanksgiving/
 title: Playing in the leaves on Thanksgiving
-tags:
-  - leaves
-  - Thanksgiving
+tags: [leaves, Thanksgiving]
 
 ---
 

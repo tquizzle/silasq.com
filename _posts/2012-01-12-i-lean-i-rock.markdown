@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /i-lean-i-rock/
 title: I Lean, I Rock
-tags:
-- camo
-- couch
+tags: [camo, couch]
 ---
 
 <figure>

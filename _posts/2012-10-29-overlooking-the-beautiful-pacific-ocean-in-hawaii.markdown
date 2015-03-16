@@ -3,10 +3,7 @@ author: Travis
 layout: post
 permalink: /overlooking-the-beautiful-pacific-ocean-in-hawaii/
 title: Overlooking the Beautiful Pacific Ocean in Hawaii
-tags:
-- Hawaii
-- beautiful
-- ocean
+tags: [Hawaii, beautiful, ocean]
 
 ---
 

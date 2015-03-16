@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /im-in-hawaii/
 title: I'm in Hawaii
-tags:
-- Hawaii
-- vacation
+tags: [Hawaii, vacation]
 
 ---
 

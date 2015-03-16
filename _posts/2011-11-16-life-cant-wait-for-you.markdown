@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /life-cant-wait-for-you/
 title: Life - Can't Wait For You
-tags:
-- God
-- Life
+tags: [God, Life]
 ---
 
 You've been growing and moving around so much lately. You're mother and I can't wait to see your face and hold you in our arms.  

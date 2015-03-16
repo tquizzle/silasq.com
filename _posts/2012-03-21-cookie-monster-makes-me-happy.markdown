@@ -3,10 +3,7 @@ author: Travis
 layout: post
 permalink: /cookie-monster-makes-me-happy/
 title: Cookie Monster makes me Happy
-tags:
-- Cookie Monster
-- happy
-- laughing
+tags: [Cookie Monster, happy, laughing]
 
 ---
 <figure>

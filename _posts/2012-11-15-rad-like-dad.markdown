@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /rad-like-dad/
 title: Rad Like Dad
-tags:
-  - Rad
-  - Dad
+tags: [Rad, Dad]
 
 ---
 

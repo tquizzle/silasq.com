@@ -3,8 +3,7 @@ author: Travis
 layout: post
 permalink: /hangin-with-pop/
 title: Hangin' With Pop
-tags:
-- Pop
+tags: [Pop]
 
 ---
 

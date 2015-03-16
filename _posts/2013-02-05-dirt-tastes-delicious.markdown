@@ -3,8 +3,7 @@ author: Travis
 layout: post
 permalink: /dirt-tastes-delicious/
 title: Dirt Tastes Delicious
-tags:
-  - dirt
+tags: [dirt]
 
 ---
 

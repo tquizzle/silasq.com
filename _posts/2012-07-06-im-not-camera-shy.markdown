@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /im-not-camera-shy/
 title: I'm not camera shy
-tags:
-- camera
-- hat
+tags: [camera, hat]
 
 ---
 

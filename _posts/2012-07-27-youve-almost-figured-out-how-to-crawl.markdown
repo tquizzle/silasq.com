@@ -3,8 +3,7 @@ author: Travis
 layout: post
 permalink: /youve-almost-figured-out-how-to-crawl/
 title: You've almost figured out how to crawl
-tags:
-- crowling
+tags: [crawling]
 
 ---
 

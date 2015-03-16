@@ -3,8 +3,7 @@ author: Travis
 layout: post
 permalink: /helping-mom-unpack-after-hawaii/
 title: Helping Mom unpack after Hawaii
-tags:
-- Hawaii
+tags: [Hawaii]
 
 ---
 

@@ -3,8 +3,7 @@ author: admin
 layout: post
 permalink: /rockin-out-with-my-do-rag/
 title: Rockin out with my Do-rag
-tags:
-  -
+tags: [do rag, rag, daddy]
 
 ---
 

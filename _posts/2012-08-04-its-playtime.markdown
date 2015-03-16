@@ -3,8 +3,7 @@ author: Travis
 layout: post
 permalink: /its-playtime/
 title: Its Playtime!
-tags:
-- playtime
+tags: [playtime]
 
 ---
 

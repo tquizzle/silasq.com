@@ -3,9 +3,7 @@ author: heather
 layout: post
 permalink: /time-for-solids/
 title: Time for solids!
-tags:
-- solids
-- eating
+tags: [solids, eating]
 
 ---
 <figure>

@@ -3,10 +3,7 @@ author: Travis
 layout: post
 permalink: /my-1st-st-patricks-day/
 title: My 1st St. Patrick's Day
-tags:
-- 1st
-- holiday
-- St. Patrick
+tags: [1st, holiday, St. Patrick]
 ---
 <figure>
 	<img src="http://silasq.com/uploads/2012/03/20120318-152739.jpg" alt="">	

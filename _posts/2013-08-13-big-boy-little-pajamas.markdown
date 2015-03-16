@@ -3,8 +3,7 @@ author: heather
 layout: post
 permalink: /big-boy-little-pajamas/
 title: Big boy, little pajamas
-tags:
-  - Pajamas
+tags: [Pajamas]
 
 ---
 

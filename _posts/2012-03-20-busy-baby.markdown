@@ -3,10 +3,8 @@ author: heather
 layout: post
 permalink: /busy-baby/
 title: Busy Baby
-tags:
-- busy
-- Crazy
-- squeals
+tags: [busy, Crazy, squeals]
+
 ---
 
 You have gotten so active! You kick and punch the air wildly when you are lying on your back, especially when you are really excited. I wish I knew what all the goo's, ga's and squeals meant because you appear to really be talking about something crazy!

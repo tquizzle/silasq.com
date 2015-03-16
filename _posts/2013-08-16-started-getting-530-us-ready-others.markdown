@@ -3,9 +3,7 @@ author: heather
 layout: post
 permalink: /started-getting-530-us-ready-others/
 title: We have started getting up at 5:30. Some of us are more ready than others.
-tags:
-  - early
-  - morning
+tags: [early, morning]
 
 ---
 

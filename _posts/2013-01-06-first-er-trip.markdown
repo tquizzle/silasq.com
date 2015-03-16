@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /first-er-trip/
 title: First ER Trip
-tags:
-  - ER
-  - sick
+tags: [ER, sick]
 
 ---
 

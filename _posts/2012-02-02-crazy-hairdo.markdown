@@ -3,10 +3,7 @@ author: Travis
 layout: post
 permalink: /crazy-hairdo/
 title: Crazy Hairdo
-tags:
-- Crazy
-- Hair
-- Mohawk
+tags: [Crazy, Hair, Mohawk]
 ---
 
 

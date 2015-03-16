@@ -3,8 +3,7 @@ author: Travis
 layout: post
 permalink: /look-at-me/
 title: Look at Me!
-tags:
-- Pictures
+tags: [Pictures]
 ---
 
 Take a look at this beautiful boy! He's in pictures.

@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /digging-into-my-first-birthday-cake/
 title: Digging into my First Birthday Cake
-tags:
-- 1st birthday
-- cake
+tags: [1st birthday, cake]
 ---
 
 <figure>

@@ -4,9 +4,7 @@ layout: post
 slug: love-reading-little-book-worm
 title: I love reading with my little book worm!
 permalink: /love-reading-little-book-worm/
-tags:
-  - bookworm
-  - reading
+tags: [bookworm, reading]
 
 ---
 

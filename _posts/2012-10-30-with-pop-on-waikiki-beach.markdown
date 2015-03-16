@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /with-pop-on-waikiki-beach/
 title: With Pop on Waikiki Beach
-tags:
-- Waikiki
-- Hawaii
+tags: [Waikiki, Hawaii]
 
 ---
 

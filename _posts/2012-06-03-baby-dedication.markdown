@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /baby-dedication/
 title: Baby Dedication
-tags:
-- church
-- dedication
+tags: [church, dedication]
 
 ---
 

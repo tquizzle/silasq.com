@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /fresh-kicks/
 title: Fresh Kicks
-tags:
-- kicks
-- shoes
+tags: [kicks, shoes]
 
 ---
 

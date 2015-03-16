@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /3-months-to-go-3d-high-10/
 title: 3 Months To Go - 3D - High 10
-tags:
-- 3D
-- Miracle in the Womb
+tags: [3D, Miracle in the Womb]
 ---
 
 <figure>

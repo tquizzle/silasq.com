@@ -5,10 +5,7 @@ layout: post
 permalink: /2-12-month-pictures/
 title: 2 1/2 Month Pictures
 - Image
-tags:
-- 10 Weeks
-- Adorable
-- Pictures
+tags: [10 Weeks, Adorable, Pictures]
 ---
 
 Yep, I know I'm cute!

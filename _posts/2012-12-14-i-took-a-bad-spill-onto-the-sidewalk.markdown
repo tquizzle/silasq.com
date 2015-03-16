@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /i-took-a-bad-spill-onto-the-sidewalk/
 title: I Took a Bad Spill onto the Sidewalk
-tags:
-  - sidewalk
-  - face plant
+tags: [sidewalk, face plant]
 
 ---
 

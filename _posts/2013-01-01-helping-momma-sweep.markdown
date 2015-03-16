@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /helping-momma-sweep/
 title: Helping Momma Sweep
-tags:
-  - help
-  - chores
+tags: [help, chores]
 
 ---
 

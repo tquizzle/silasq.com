@@ -3,8 +3,7 @@ author: Travis
 layout: post
 permalink: /me-mom-playing-in-the-sand-on-waikiki/
 title: Me & Mom playing in the sand on Waikiki
-tags:
-- Hawaii
+tags: [Hawaii]
 
 
 ---

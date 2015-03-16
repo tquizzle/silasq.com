@@ -3,10 +3,7 @@ author: Travis
 layout: post
 permalink: /christmas-2012/
 title: Christmas 2012
-tags:
-  - Christmas
-  - 2012
-  - presents
+tags: [Christmas, 2012, presents]
 
 ---
 

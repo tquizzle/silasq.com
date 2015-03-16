@@ -3,9 +3,7 @@ author: admin
 layout: post
 permalink: /winter-fashion-designs-silas/
 title: Winter fashion designs by Silas
-tags:
-  - fashion
-  - winter
+tags: [fashion, winter]
 
 ---
 

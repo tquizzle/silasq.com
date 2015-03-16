@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /i-got-stuck-in-the-pantry/
 title: I got stuck in the pantry!
-tags:
-  - pantry
-  - stuck
+tags: [pantry, stuck]
 
 ---
 

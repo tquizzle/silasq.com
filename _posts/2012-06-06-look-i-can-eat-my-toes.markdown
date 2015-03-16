@@ -3,9 +3,7 @@ author: Travis
 layout: post
 permalink: /look-i-can-eat-my-toes/
 title: Look! I can eat my toes!
-tags:
-- toes
-- eat
+tags: [toes, eat]
 
 
 ---

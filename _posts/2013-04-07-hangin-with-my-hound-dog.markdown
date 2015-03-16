@@ -3,7 +3,7 @@ author: admin
 layout: post
 permalink: /hangin-with-my-hound-dog/
 title: Hangin' with my Hound Dog
-
+tags: [dog, bed]
 
 ---
 

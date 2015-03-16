@@ -3,9 +3,7 @@ author: heather
 layout: post
 permalink: /bed-time-%e2%89%a0-bed/
 title: Bed Time ≠ Bed
-tags:
-- bedtime
-- sleep
+tags: [bedtime, sleep]
 
 ---
 

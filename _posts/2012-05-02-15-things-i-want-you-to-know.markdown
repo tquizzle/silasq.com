@@ -3,12 +3,7 @@ author: Travis
 layout: post
 permalink: /15-things-i-want-you-to-know/
 title: 15 Things I Want You To Know
-tags:
-- grace
-- honor
-- mutual respect
-- relationships
-- spiritual leader
+tags: [grace, honor, mutual respect, relationships, spiritual leader]
 
 ---
 

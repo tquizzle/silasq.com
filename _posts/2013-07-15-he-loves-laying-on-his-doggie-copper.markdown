@@ -3,12 +3,9 @@ author: admin
 layout: post
 permalink: /he-loves-laying-on-his-doggie-copper/
 title: He loves laying on his doggie “Copper”
-tags:
-  - boy life
-  - kids and dogs
+tags: [boy life, kids and dogs]
 
 ---
-
 
 
 <figure>

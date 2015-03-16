@@ -2,11 +2,9 @@
 author: Travis
 layout: post
 permalink: /me-mom-at-the-polynesian-cultural-center/
-title: Me & Mom at the Polynesian Cultural Center
-tags:
-- Hawaii
-- Polynesian Culteral Center
-- vacation
+title: "Me & Mom at the Polynesian Cultural Center"
+tags: [Hawaii, Polynesian Culteral Center, vacation]
+
 ---
 
 <figure>

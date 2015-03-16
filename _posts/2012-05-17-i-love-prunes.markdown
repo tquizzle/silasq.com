@@ -3,9 +3,8 @@ author: Travis
 layout: post
 permalink: /i-love-prunes/
 title: I Love Prunes!
-tags:
-- food
-- prunes
+tags: [food, prunes]
+
 ---
 
 <figure>
