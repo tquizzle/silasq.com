@@ -10,6 +10,6 @@ tags: [cowboy, things boys say]
 ---
 
 <figure>
-	<img src="https://photos-b.ak.instagram.com/hphotos-ak-prn/926626_421911314605017_527310610_n.jpg" alt="">
+	<img src="//photos-b.ak.instagram.com/hphotos-ak-prn/926626_421911314605017_527310610_n.jpg" alt="">
 	<figcaption>via <a href="http://instagram.com/p/ieI-tVOzNN/">Instagram</a></figcaption>
 </figure>
