@@ -9,6 +9,6 @@ tags: [bookworm, reading]
 ---
 
 <figure>
-	<img src="http://silasq.com/uploads/2013/12/a74623d46f5711e38214127b88cfc5d3_8-300x300.jpg" alt="" width="300" height="300" />
+	<img src="/uploads/2013/12/a74623d46f5711e38214127b88cfc5d3_8.jpg" alt="" />
 	<figcaption>I love reading with my little bookworm!</figcaption>
 </figure>

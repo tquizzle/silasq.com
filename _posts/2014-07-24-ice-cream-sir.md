@@ -2,7 +2,7 @@
 layout: post
 title: "Ice Cream Sir?"
 description: "This picture is just too cute not to share."
-tags: [ice cream, imagination]
+tags: [ice cream, imagination, acting]
 ---
 
 <figure>

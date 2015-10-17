@@ -12,6 +12,10 @@
 	perspective-origin: 50% 200%;
 	@media #{$medium} {
 		position: fixed;
+<<<<<<< Updated upstream
+=======
+		max-width: 175px;
+>>>>>>> Stashed changes
 		max-width: 275px;
 		top: 25px;
 		left: 25px;
