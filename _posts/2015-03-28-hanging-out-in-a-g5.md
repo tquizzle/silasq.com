@@ -5,12 +5,13 @@ title: "Hanging out in a G5"
 tags: [g5, bird, airport]
 ---
 
-Today uncle Mike let me go to work and check out a Blackhawk heli up close and in person. 
+Me and Dad in a G5!
 
-<figure class="half">
+<figure>
 	<img src="/uploads/2015/03/2015-03-28 12.57.57.jpg" alt="">
-	<img src="/uploads/2015/03/2015-03-28 13.00.44.jpg" alt="">
-	<figcaption>Me and Dad in a G5!</figcaption>
 </figure>
 
+<figure>
+	<img src="/uploads/2015/03/2015-03-28 13.00.44.jpg" alt="">
+</figure>
 
