@@ -11,20 +11,20 @@ url: //silasq.com
 owner:
   name:           The Quinnelly's
   avatar:         avatar.jpg
-  bio:            
+  bio:
   email:          noone@silasq.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:
+  facebook:
+  github:
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    
+  google_plus:
 
 subject:
   name:         Silas Quinnelly
@@ -34,47 +34,47 @@ subject:
 dad:
   name:           Travis Quinnelly
   avatar:         avatar.jpg
-  bio:            
-  email:          
+  bio:
+  email:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        TQuizzle
   facebook:       tquinnelly
   github:         #tquizzle
-  stackexchange:  
+  stackexchange:
   linkedin:       #tquinnelly
   instagram:      tquinnelly
-  flickr:         
-  tumblr:         
+  flickr:
+  tumblr:
 
 mom:
   name:           Heather Quinnelly
   avatar:         avatar.jpg
-  bio:            
-  email:          
+  bio:
+  email:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        HQuizzle
   facebook:       hquinnelly
-  github:         
-  stackexchange:  
-  linkedin:       
+  github:
+  stackexchange:
+  linkedin:
   instagram:      hquinnelly
-  flickr:         
-  tumblr:         
+  flickr:
+  tumblr:
 
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-253329-11
-google_verify:      
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 gems:
   - jekyll-sitemap
