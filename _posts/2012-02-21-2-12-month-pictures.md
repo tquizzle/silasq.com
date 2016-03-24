@@ -1,10 +1,10 @@
 ---
 author: heather
-date: 2012-02-21 19:50:00+00:00
+date: 2012-02-21
 layout: post
-permalink: /2-12-month-pictures/
-title: 2 1/2 Month Pictures
-- Image
+#permalink: /2-12-month-pictures/
+title: "2 1/2 Month Pictures"
+#- Image
 tags: [10 Weeks, Adorable, Pictures]
 ---
 
