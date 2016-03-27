@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Yellow Rhino!"
+title: "Yellow Hippo!"
 #description: "Examples and code for displaying images in posts."
-tags: [park, rhino, outdoors]
+tags: [park, hippo, outdoors, outside]
 ---
 
 
