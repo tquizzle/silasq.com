@@ -6,7 +6,7 @@ comments: false
 share: false
 ---
 
-Silas is a happy, energetic 4 year old at Cornerstone Christian Academy. In order to support school sports teams, clubs, events, and class trips, throughout the school year Si enthusiastically participates in a variety of fund raising efforts.
+Silas is a happy, energetic 5 year old at Cornerstone Christian Academy. In order to support school sports teams, clubs, events, and class trips, throughout the school year Si enthusiastically participates in a variety of fund raising efforts.
 
 Below is the current fundraiser and Silas thanks you for your support.
 
